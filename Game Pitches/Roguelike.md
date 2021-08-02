@@ -36,8 +36,8 @@
 [Word Doc](https://liveuwstout-my.sharepoint.com/:w:/g/personal/boehmz8613_my_uwstout_edu/ES2czwkxKb9EmOha0vkILKABpWAZkpiYaEx02vimEnC2Bg?e=EpjbQJ)
 <br /><br /><br />
 
-> [Back to Home Page](https://github.com/Zachary-Boehm/GDD400)
->> [Back to Game Pitches](https://github.com/Zachary-Boehm/GDD400/tree/main/Game%20Pitches)
+> [Back to Home Page](https://github.com/GDD450-Team-Omega/Assets)
+>> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Game%20Pitches)
 
 [Death's Door]: https://www.youtube.com/watch?v=NjnEg3ucXpc "Click Me For Death's Door Trailer"
 [Wizard of Legend]: https://www.youtube.com/watch?v=1bsU7iQM66o "Click Me For Wizard of Legend Trailer"
