@@ -51,7 +51,7 @@ Slower pace tower defense game relaxing look at the scenery maybe super artsey a
 <br /><br /><br />
 
 > [Back to Home Page](https://github.com/GDD450-Team-Omega/Assets)
->> [Back to Game Pitches](https://github.com/Zachary-Boehm/GDD400/tree/main/Game%20Pitches)
+>> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Game%20Pitches)
 
 
 [Tile]: https://www.instagram.com/p/CRyZGsQqEl2/?utm_source=ig_web_copy_link "Click for Original Post (Animated)"
