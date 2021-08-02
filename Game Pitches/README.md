@@ -1,6 +1,5 @@
 **Table of Contents**
-> [3D Tower Defense](3DTowerDefense.md)<br />[Rogue Like](Roguelike.md)
-> 
+> [3D Tower Defense](3DTowerDefense.md)<br />[Rogue Like](Roguelike.md)<br />[Deck Builder](DeckBuilder.md)
 <br />
 
 [Back to Home Page](https://github.com/Zachary-Boehm/GDD400)
