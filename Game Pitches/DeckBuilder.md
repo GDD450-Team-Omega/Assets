@@ -38,8 +38,8 @@
 [Word Doc](https://liveuwstout-my.sharepoint.com/:w:/g/personal/boehmz8613_my_uwstout_edu/Ed3qyHVZD5dFvm_QtU_nuH8BOR23UIeo1u1afIScfhRsGw?e=CjmpZC)
 <br /><br /><br />
 
-> [Back to Home Page](https://github.com/Zachary-Boehm/GDD400)
->> [Back to Game Pitches](https://github.com/Zachary-Boehm/GDD400/tree/main/Game%20Pitches)
+> [Back to Home Page](https://github.com/GDD450-Team-Omega/Assets)
+>> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Game%20Pitches)
 
 
 [Digimon]: https://www.pinterest.ca/tom_hjd/digimon-art/ "Click for Digimon Art"
