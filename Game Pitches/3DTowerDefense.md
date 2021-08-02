@@ -50,7 +50,7 @@ Slower pace tower defense game relaxing look at the scenery maybe super artsey a
 [Word Doc](Files/3D_Tower_Defense.docx)
 <br /><br /><br />
 
-> [Back to Home Page](https://github.com/Zachary-Boehm/GDD400)
+> [Back to Home Page](https://github.com/GDD450-Team-Omega/Assets)
 >> [Back to Game Pitches](https://github.com/Zachary-Boehm/GDD400/tree/main/Game%20Pitches)
 
 
