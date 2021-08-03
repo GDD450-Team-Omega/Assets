@@ -42,8 +42,8 @@ Note: Delete these notes after making new pitch from template
 [Word Doc](Files/3D_Tower_Defense.docx)
 <br /><br /><br />
 
-> [Back to Home Page](https://github.com/Zachary-Boehm/GDD400)
->> [Back to Game Pitches](https://github.com/Zachary-Boehm/GDD400/tree/main/Game%20Pitches)
+> [Back to Home Page](https://github.com/GDD450-Team-Omega)
+>> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Game%20Pitches)
 
 
 [Tile]: https://www.instagram.com/p/CRyZGsQqEl2/?utm_source=ig_web_copy_link "Click for Original Post (Animated)"
