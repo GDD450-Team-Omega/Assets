@@ -37,7 +37,7 @@
 <br /><br /><br />
 
 > [Back to Home Page](https://github.com/GDD450-Team-Omega/Assets)
->> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Game%20Pitches)
+>> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Asset%20Files/Game%20Pitches)
 
 [Death's Door]: https://www.youtube.com/watch?v=NjnEg3ucXpc "Click Me For Death's Door Trailer"
 [Wizard of Legend]: https://www.youtube.com/watch?v=1bsU7iQM66o "Click Me For Wizard of Legend Trailer"
