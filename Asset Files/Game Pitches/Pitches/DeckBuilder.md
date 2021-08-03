@@ -39,7 +39,7 @@
 <br /><br /><br />
 
 > [Back to Home Page](https://github.com/GDD450-Team-Omega/Assets)
->> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Game%20Pitches)
+>> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Asset%20Files/Game%20Pitches)
 
 
 [Digimon]: https://www.pinterest.ca/tom_hjd/digimon-art/ "Click for Digimon Art"
