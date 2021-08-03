@@ -1,5 +1,9 @@
 **Table of Contents**
-> [3D Tower Defense](3DTowerDefense.md)<br />[Rogue Like](Roguelike.md)<br />[Deck Builder](DeckBuilder.md)
+> [3D Tower Defense](3DTowerDefense.md)<br />
+> [Rogue Like](Roguelike.md)<br />
+> [Deck Builder](DeckBuilder.md)<br />
+> [Igorama](Igorama.md)<br />
+> [Untitled Horror Game](UntitledHorrorGame.md)<br />
 <br />
 
 [Back to Home Page](https://github.com/GDD450-Team-Omega/Assets)
