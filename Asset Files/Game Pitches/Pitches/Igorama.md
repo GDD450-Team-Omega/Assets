@@ -8,9 +8,9 @@
 <br />
 
 # [↑](#table-of-contents) [IGORAMA][IGORAMA]
-
+> Premise: Work as a mad scientist’s assistant to pay off your student debt!
 ## [↑](#table-of-contents) Genre
-#### ` Mini-Game ` ` Point n' Click ` ` Platformer `
+#### ` Mini-Game ` ` Point n' Click ` ` Puzzle ` ` Platformer `
 
 ## [↑](#table-of-contents) Overview
 The game is made up of several mini-games, which are all inspired by tasks an assistant to a mad scientist could have in their job description (“feed the lab rabbits”, “test the death ray”, “pull the lever”, etc.). You should try to do all your tasks to the best of your ability, so that you might get a raise and pay off your student debt faster. The goal of the game is to pay off your debt and find a better job. You lose if you die or get severely injured as a result of your workplace’s multiple OSHA violations.
