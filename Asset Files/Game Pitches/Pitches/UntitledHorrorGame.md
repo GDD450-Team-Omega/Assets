@@ -26,5 +26,5 @@ The puzzles are often physical and require multiple people to solve. If the play
 [Word Doc](https://liveuwstout-my.sharepoint.com/:w:/g/personal/norgrenl4661_my_uwstout_edu/EZkjiU3np_NGrXaVRTmsz2kBuJ7eR9rlMEzn12HjJcEk_w?e=FpFycf)
 <br /><br /><br />
 
-> [Back to Home Page](https://github.com/GDD450-Team-Omega)
->> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Game%20Pitches)
+> [Back to Home Page](https://github.com/GDD450-Team-Omega/Assets)
+>> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Asset%20Files/Game%20Pitches)
