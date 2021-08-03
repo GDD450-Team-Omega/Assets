@@ -42,8 +42,8 @@ These differ depending on the mini-game.
 ![9](Files/IGORAMA%20Pitch/0009.jpg)
 ___
 
-> [Back to Home Page](https://github.com/GDD450-Team-Omega)
->> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Game%20Pitches)
+> [Back to Home Page](https://github.com/GDD450-Team-Omega/Assets)
+>> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Asset%20Files/Game%20Pitches)
 >> 
 ## [↑](#table-of-contents)
 
