@@ -21,7 +21,7 @@ The art style is very cartoony and exaggerated in both form and color. It’s al
 
 ## [↑](#table-of-contents) Game Insperation
 
-![embed](https://github.com/GDD450-Team-Omega/Assets/blob/master/Game%20Pitches/Files/IGORAMA%20Pitch.pdf)
+![embed](https://github.com/GDD450-Team-Omega/Assets/blob/master/Game%20Pitches/Files/IGORAMA%20Pitch/0004.jpg)
 
 ## [↑](#table-of-contents) Mechanics
 <br />
@@ -44,4 +44,4 @@ ___
 > [Back to Home Page](https://github.com/GDD450-Team-Omega)
 >> [Back to Game Pitches](https://github.com/GDD450-Team-Omega/Assets/tree/master/Game%20Pitches)
 
-[IGORAMA]: Files/3D_Tower_Defense.docx "Click here for full PDF Pitch"
+[IGORAMA]: Files/IGORAMA%20Pitch/IGORAMA%20Pitch.pdf "Click here for full PDF Pitch"
