@@ -34,7 +34,7 @@ There’s potential for co-op here: two people are better at moving corpses than
 - In the beginning, you can sell the corpses you dig up to one established client. Make sure your wares are in acceptable condition - the fresher, the better! This is reflected in the price.
 - As you earn more money you can buy new tools. Tools can help you disarm traps and avoid anti-grave robbery conrtraptions in the form of mini-games (think the hacking mini-game in *Bioshock*). Tools can also let you open tougher caskets and dig through denser dirt.
 - You can also buy carriages. Carriages allow you to travel to more graveyards and carry more corpses. Typically, the more corpses a carriage holds, the slower it is.
-- When you have several graveyards to choose from, you can start keeping track of when and where people are buried to maximize your route and get as many fresh corpses as possible.
+- When you have several graveyards to choose from, you can start keeping track of when and where people are buried to maximize your route and get as many fresh corpses as possible. You can also avoid a specific graveyard if you were seen in it, thus not losing a whole night's income and even avoiding security altogether if you don’t return to the graveyard in question for a whole week.
 - With enough money you can also hire underlings to do various tasks for you/alongside you.
 - As you talk more to your client they can point you in the direction of other people who may be interested in your wares (a carriage is typically needed to reach these new clients).
 - Clients may have special requests that will earn you more money than usual if you manage to deliver.
