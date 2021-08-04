@@ -1,7 +1,7 @@
 ### Table of Contents
 > [Title](#-IGORAMA)<br />
 > [Genre](#-genre)<br />
-> [Game Insperation](#-game-insperation)<br />
+> [Game Inspiration](#-game-inspiration)<br />
 > [Mechanics](#-mechanics)<br />
 > [Illustrated Pitch](#full-illustrated-pitch)
 
@@ -19,9 +19,9 @@ Every day you get a to-do list by your employer, Dr. Dingsbums. Finish all the i
 
 The art style is very cartoony and exaggerated in both form and color. It’s almost claymation-like. Squash and stretch. 
 
-## [↑](#table-of-contents) Game Insperation
+## [↑](#table-of-contents) Game Inspiration
 
-![embed](https://github.com/GDD450-Team-Omega/Assets/blob/master/Game%20Pitches/Files/IGORAMA%20Pitch/0004.jpg)
+![embed](https://github.com/GDD450-Team-Omega/Assets/raw/master/Asset%20Files/Game%20Pitches/Pitches/Files/IGORAMA%20Pitch/0004.jpg)
 
 ## [↑](#table-of-contents) Mechanics
 <br />
@@ -30,7 +30,7 @@ These differ depending on the mini-game.
 
 <br /><br /><br />
 
-# [↑](#table-of-contents)[Full Illustrated Pitch](https://github.com/GDD450-Team-Omega/Assets/blob/master/Game%20Pitches/Files/IGORAMA%20Pitch.pdf)
+# [↑](#table-of-contents)[Full Illustrated Pitch](Files/IGORAMA%20Pitch/IGORAMA%20Pitch.pdf)
 ![1](Files/IGORAMA%20Pitch/0001.jpg)
 ![2](Files/IGORAMA%20Pitch/0002.jpg)
 ![3](Files/IGORAMA%20Pitch/0003.jpg)
