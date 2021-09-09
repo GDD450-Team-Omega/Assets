@@ -31,7 +31,7 @@
 | Random Weapon Rolls/Stats |
 | Stash Items|
 
-##### Maybe you’re a wizard that found an ancient and evil dungeon (or just place) the wizard has a clone of his body so when they die they respawn but with stuff lost. The wizard is unable to damage the creatures so they must mind control and finagle other enemies in to damaging each other and stuff.
+##### Maybe you’re a wizard that found an ancient and evil dungeon (or just place) the wizard has a clone of his body so when they die they respawn but with stuff lost. The wizard is unable to damage the creatures so they must mind control and finagle other enemies in to damaging each other and stuff.   Can't directly damage enemies.
 
 [Word Doc](https://liveuwstout-my.sharepoint.com/:w:/g/personal/boehmz8613_my_uwstout_edu/ES2czwkxKb9EmOha0vkILKABpWAZkpiYaEx02vimEnC2Bg?e=EpjbQJ)
 <br /><br /><br />
