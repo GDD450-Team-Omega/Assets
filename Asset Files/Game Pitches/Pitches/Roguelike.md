@@ -11,7 +11,7 @@
 > Starting Idea: wizard of legends ie fast paced dungeon rogue like
 
 ## [↑](#table-of-contents) Genre 
-#### `Roguelike` ```Beat 'em Up``` `Horror`
+#### `Roguelike` `Brawler` `Horror`
 
 ## [↑](#table-of-contents) Game Insperation: 
 
